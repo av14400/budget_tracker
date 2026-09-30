@@ -59,7 +59,7 @@ MODULE Main()
 
         // Step 2. Route Submenus and Actions
         IF main_choice == 1 THEN
-            DISPLAY "--- CARDIO MENU ---"
+            DISPLAY "--- INCOME MENU ---"
             DISPLAY "1. Design"
             DISPLAY "2. Coding"
             DISPLAY "3. User Documentation"
