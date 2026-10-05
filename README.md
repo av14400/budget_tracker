@@ -3,7 +3,7 @@ The budget tracker tracks income and expenses and displays a summary.
 
 
 **Course:** ITP 100 Software Design & Logic
-**Author:** Andrew Villafranca
+**Author:** Samiullah Mushfiq & Andrew Villafranca
 **Deliverable:** Algorithm Design (IPO, Flowchart, Psuedocode)
 
 ---
